@@ -1,4 +1,5 @@
 ![logo](nugit-logo.png)
+
 *A community curated NuGet source, available through GitHub.*
 
 ## Introduction
