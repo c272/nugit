@@ -5,8 +5,8 @@
     {
       "name": "NuGit",
       "type": "local",
-      "path": "./docs/feed",
-      "baseURI": "https://c272.org/nugit/"
+      "path": "./docs/v3",
+      "baseURI": "https://c272.org/nugit/v3"
     }
   ]
 }
