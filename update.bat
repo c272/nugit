@@ -1,2 +1,3 @@
-sleet push ./docs/packages/ --source NuGit
+cd docs
+sleet push ./packages/ --source NuGit --force
 pause
