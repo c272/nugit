@@ -1,8 +1,16 @@
-![logo](nugit-logo.png)
+<p align="center">
+  <img src="nugit-logo.png">
+</p>
 
-![](https://img.shields.io/github/issues/c272/nugit) ![](https://img.shields.io/badge/status-active-green) ![](https://img.shields.io/github/forks/c272/nugit)
+<p align="center">
+  <img src="https://img.shields.io/github/issues/c272/nugit">
+  <img src="https://img.shields.io/badge/status-active-green">
+  <img src="https://img.shields.io/github/forks/c272/nugit">
+</p>
 
-*A community curated NuGet source, available through GitHub.*
+<i align="center">
+   A community curated NuGet source, available through GitHub.
+</i>
 
 ## Introduction
 This repository contains the source for the NuGit package feed, a mirror for user requested packages from [the official NuGet Gallery.](nuget.org) To add this as a source for a Visual Studio version, add the following URL to the NuGet sources under "Manage NuGet Packages".
