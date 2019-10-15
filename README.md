@@ -29,3 +29,8 @@ Once this is installed and added to PATH, you can clone the repository and add y
 If you're on Windows, you can then run `update.bat` from the main repository location to update the package list. Otherwise, you can run `sleet push ./packages --source NuGit --config ../sleet.json --force` from the `/docs` directory.
 
 Once this is done, simply pull request into this repository, and the package will be reviewed and added within a couple of days.
+
+## Updating the Website
+If you want to update the website, you'll have to have the Hugo static site generator installed, which can be found at [gohugo.io](https://gohugo.io). Once this is done, you can edit the Hugo project at `/site` as required, and then use the command `hugo` to build.
+
+The website's pretty simple, so there probably won't be a need for this, but I'll take a look at any pull requests anyway.
