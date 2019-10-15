@@ -6,7 +6,7 @@
       "name": "NuGit",
       "type": "local",
       "path": "./docs/v3",
-      "baseURI": "https://c272.github.io/nugit/v3"
+      "baseURI": "https://c272.org/nugit/v3"
     }
   ]
 }

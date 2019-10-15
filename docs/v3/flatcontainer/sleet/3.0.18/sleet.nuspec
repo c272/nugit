@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Sleet</id>
+    <version>3.0.18+git.aaba0f4</version>
+    <authors>emgarten</authors>
+    <owners>emgarten</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/emgarten/Sleet/blob/master/LICENSE.md</licenseUrl>
+    <iconUrl>https://emgartenstatic.blob.core.windows.net/nupkgs/icons/sleet.png</iconUrl>
+    <description>Sleet is a static NuGet package feed generator.</description>
+    <copyright>Copyright © 2019 Justin Emgarten</copyright>
+    <tags>nuget nugetserver nugetfeed</tags>
+    <packageTypes>
+      <packageType name="DotnetTool" />
+    </packageTypes>
+    <repository type="git" url="https://github.com/emgarten/Sleet" branch="HEAD" commit="aaba0f4efab480ded50e7c2d5117b1e2cd696c7a" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
+  </metadata>
+</package>
