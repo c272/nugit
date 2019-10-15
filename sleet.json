@@ -1,0 +1,11 @@
+{
+  "username": "c272",
+  "useremail": "larry@c272.org",
+  "sources": [
+    {
+      "name": "NuGit",
+      "type": "local",
+      "path": "./docs/feed"
+    }
+  ]
+}
