@@ -1,0 +1,27 @@
+baseURL = "http://c272.org/nugit"
+languageCode = "en-uk"
+title = "NuGit - The Open Source Package Feed"
+theme = "hallo"
+publishDir = "../docs"
+disableKinds = ["page", "section", "taxonomy", "taxonomyTerm"]
+
+[Author]
+    name = "NuGit"
+
+[params]
+
+    [[params.links]]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:larry@c272.org"
+
+    [[params.links]]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/c272"
+
+    [[params.links]]
+        icon = "twitter"
+        title = "Twitter"
+        url = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
