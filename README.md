@@ -1,5 +1,7 @@
 ![logo](nugit-logo.png)
+
 ![](https://img.shields.io/github/issues/c272/nugit) ![](https://img.shields.io/badge/status-active-green) ![](https://img.shields.io/github/forks/c272/nugit)
+
 *A community curated NuGet source, available through GitHub.*
 
 ## Introduction
